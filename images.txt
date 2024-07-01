@@ -4,3 +4,14 @@ nginx
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
+
+xprobe/xinference:latest
+redis:7.2.5
+mysql:5.7.18
+nvidia/cuda:12.0.1-cudnn8-runtime-ubuntu22.04
+anchorxia/musev
+nvcr.io/nvidia/pytorch
+quay.io/minio/minio
+docker.elastic.co/kibana/kibana
+docker.elastic.co/elasticsearch/elasticsearch
